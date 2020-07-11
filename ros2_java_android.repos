@@ -38,7 +38,7 @@ repositories:
   ros2/rcl_interfaces:
     type: git
     url: https://github.com/ros2/rcl_interfaces.git
-    version: master
+    version: bouncy
   ros2/rmw:
     type: git
     url: https://github.com/ros2/rmw.git
@@ -75,7 +75,4 @@ repositories:
     type: git
     url: https://github.com/esteve/ros2_android.git
     version: master
-  ros2_java/ros2_android_examples:
-    type: git
-    url: https://github.com/esteve/ros2_android_examples.git
-    version: master
+
